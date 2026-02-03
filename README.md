@@ -29,7 +29,7 @@ sales performance, customer behavior, product trends, and delivery efficiency.
 
 ## 📊 Sales Dashboard Preview
 
-<img src="Fern & Petal Excel Dashboard.png" height="800" width="1000"/>
+<img src="Fern & Petals Excel Dashboard.png" height="800" width="1000"/>
 
 ---
 
