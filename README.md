@@ -1,46 +1,29 @@
 # 🌸 Ferns & Petals Sales Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
-This project analyzes sales data of **Ferns & Petals (FNP)**, a gifting company specializing in
-occasion-based products like Diwali, Holi, Valentine’s Day, Birthdays, and Anniversaries.
-The goal is to uncover sales trends, customer behavior, and product performance using Excel.
+This project focuses on analyzing sales data of **Ferns & Petals (FNP)**, a gifting company
+specializing in occasion-based products such as Valentine’s Day, Raksha Bandhan, Holi,
+Diwali, Birthdays, and Anniversaries.
+
+The objective was to build an **interactive Excel dashboard** to uncover insights related to
+sales performance, customer behavior, product trends, and delivery efficiency.
 
 ---
 
-## 🧰 Tools Used
+## 🧰 Tools & Technologies
 - Microsoft Excel
-- Power Query
-- Power Pivot
-- Pivot Tables & Charts
+- Power Query (Data Cleaning & Transformation)
+- Power Pivot (Data Modeling)
+- Pivot Tables & Pivot Charts
 - Slicers & Timeline Filters
 
 ---
 
 ## 📊 Key KPIs
-- **Total Orders:** 413
-- **Total Revenue:** ₹35.21 Lakhs
-- **Average Delivery Time:** 5.66 Days
-- **Average Customer Spending:** ₹3,176
-
----
-
-## 🔍 Key Insights
-- Holi and Valentine’s Day generate the highest revenue.
-- February is the strongest sales month.
-- Gift packs are the top-performing products.
-- Dhanbad is the city with the highest number of orders.
-- Delivery timelines remain stable regardless of order quantity.
-
----
-
-## 📈 Dashboard Highlights
-- Revenue by Occasion
-- Revenue by Category
-- Hourly Revenue Trend
-- Monthly Revenue Trend
-- Top Products by Revenue
-- Top Cities by Orders
-- Interactive slicers for Date & Occasion
+- **Total Orders:** 1000  
+- **Total Revenue:** ₹35,20,984  
+- **Average Order–Delivery Time:** 5.53 Days  
+- **Average Customer Spending:** ₹3,520.98  
 
 ---
 
@@ -48,24 +31,56 @@ The goal is to uncover sales trends, customer behavior, and product performance 
 
 <img src="Fern & Petal Excel Dashboard.png" height="800" width="1000"/>
 
+---
+
+## 📈 Dashboard Insights
+
+### 🔹 Revenue by Occasion
+- **Anniversary, Raksha Bandhan & Holi** are the highest revenue-generating occasions.
+- Occasion-based gifting plays a critical role in overall sales.
+
+### 🔹 Revenue by Category
+- **Colors and Soft Toys** dominate revenue contribution.
+- Cakes and Sweets perform consistently across occasions.
+
+### 🔹 Monthly Revenue Trend
+- Sales peak during **February and August**, indicating strong seasonal demand.
+- Mid-year months show relatively lower but stable performance.
+
+### 🔹 Hourly Revenue Trend
+- Peak revenue is observed during **evening hours (approx. 6 PM – 9 PM)**.
+- Suggests customers prefer placing orders after working hours.
+
+### 🔹 Top 5 Products by Revenue
+- Gift bundles and premium sets generate the highest revenue.
+- Bundled products outperform single-item purchases.
+
+### 🔹 Top 10 Cities by Orders
+- Cities like **Imphal, Dhanbad, Kavali, and Haridwar** lead in order volume.
+- Tier-2 and Tier-3 cities show strong adoption of online gifting.
+
+### 🔹 Order Quantity vs Delivery Time
+- No major delay observed with higher order volumes.
+- Indicates efficient delivery and logistics operations.
 
 ---
 
-## 🎯 Business Value
+## 🎯 Business Impact
 - Helps identify high-performing products and occasions
-- Supports marketing strategy optimization
-- Provides insights into customer spending behavior
-- Demonstrates end-to-end Excel analytics skills
+- Supports data-driven marketing and inventory planning
+- Provides insights into customer purchasing behavior
+- Demonstrates end-to-end Excel analytics capability
 
 ---
 
 ## 📂 Dataset
-- Orders
-- Customers
-- Products
+- Orders Data
+- Customers Data
+- Products Data
 
 ---
 
 ## 🚀 Author
 **Shivam Anand**  
-Data Analyst | Excel | SQL | Power BI | Python
+Aspiring Data Analyst | Excel | SQL | Power BI  
+
