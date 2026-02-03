@@ -44,6 +44,13 @@ The goal is to uncover sales trends, customer behavior, and product performance 
 
 ---
 
+## 📊 Sales Dashboard Preview
+
+<img src="Fern & Petal Excel Dashboard.png" height="800" width="1000"/>
+
+
+---
+
 ## 🎯 Business Value
 - Helps identify high-performing products and occasions
 - Supports marketing strategy optimization
