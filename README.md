@@ -61,4 +61,4 @@ The goal is to uncover sales trends, customer behavior, and product performance 
 
 ## 🚀 Author
 **Shivam Anand**  
-Aspiring Data Analyst | Excel | SQL | Power BI
+Data Analyst | Excel | SQL | Power BI | Python
